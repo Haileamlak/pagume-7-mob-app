@@ -1,6 +1,6 @@
-# ![App Logo](images/bahirelogo.png) Ethiopian & Gregorian Calendar App
+#  Pagume 7 Calendar Application
 
-<!-- Add the logo image link here -->
+![App Logo](images/bahirelogo.png) <!-- Add the logo image link here -->
 
 ## Overview
 
