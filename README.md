@@ -1,6 +1,6 @@
-# Ethiopian & Gregorian Calendar App
+# ![App Logo](images/bahirelogo.png) Ethiopian & Gregorian Calendar App
 
-![App Logo](images/bahirelogo.png) <!-- Add the logo image link here -->
+<!-- Add the logo image link here -->
 
 ## Overview
 
