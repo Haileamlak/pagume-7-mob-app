@@ -53,3 +53,13 @@ Before you begin, ensure you have the following:
 ├── assets               # Images, fonts, etc.
 └── README.md            # Project documentation
 ```
+
+## Usage
+ - **Monthly Calendar**: Navigate through months and switch between Ethiopian and Gregorian calendars.
+ - **Date Conversion**: Use the conversion tool to switch dates between the two calendar systems.
+ - **Number Conversion**: Convert numbers from Amharic to Arabic numerals and vice versa.
+ - **Holiday & Fasting**: Enter a year to find out the dates for holidays and fasting periods.
+ - **Weekday Finder**: Input a date to find out the corresponding weekday.
+
+## Contact
+For more information or support, please contact us at haileamlakbeat@gmail.com.
