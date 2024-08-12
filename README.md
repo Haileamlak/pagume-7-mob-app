@@ -1,6 +1,6 @@
 # Ethiopian & Gregorian Calendar App
 
-![App Logo](link_to_logo_image) <!-- Add the logo image link here -->
+![App Logo](images/bahirelogo.png) <!-- Add the logo image link here -->
 
 ## Overview
 
@@ -27,8 +27,8 @@ Before you begin, ensure you have the following:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/calendar-app.git
-    cd calendar-app
+    git clone https://github.com/haileamlak/pagume-7-mob-app.git
+    cd pagume-7-mob-app
     ```
 
 2. **Install dependencies**:
